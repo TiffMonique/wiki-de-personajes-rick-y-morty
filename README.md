@@ -2,7 +2,7 @@
 
 <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rick-morty-2381623.jpg" />
 
-## Intallation
+## Installation
 
 Install all the needed packages:
 
