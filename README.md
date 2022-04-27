@@ -1,4 +1,4 @@
-# Rick and Morty App
+# Rick and Morty React App
 
 <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rick-morty-2381623.jpg" />
 
