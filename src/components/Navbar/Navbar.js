@@ -4,7 +4,7 @@ import "../../App.css";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light mb-4">
       <div className="container">
         <Link to="/" className="fs-3 ubuntu navbar-brand">
           Rick & Morty <span className="text-primary"> Wiki</span>
