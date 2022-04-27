@@ -14,7 +14,7 @@ Install all the needed packages:
 
 ## Usage
 
-production build:
+To run a production build:
 
  ```
 npm run build
